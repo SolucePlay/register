@@ -5,8 +5,9 @@
     "email": "soluceplay@gmail.com"
   },
   "records": {
-    "A": [
-      "90.23.51.22"
+    "NS": [
+      "ns1.infinityfree.com",
+      "ns2.infinityfree.com"
     ]
   }
 }
