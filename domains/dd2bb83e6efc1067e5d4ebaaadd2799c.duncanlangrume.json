@@ -1,0 +1,10 @@
+{
+  "description": "Validation InfinityFree",
+  "owner": {
+    "username": "SolucePlay",
+    "email": "soluceplay@gmail.com"
+  },
+  "records": {
+    "CNAME": "ns1.byet.org"
+  }
+}
